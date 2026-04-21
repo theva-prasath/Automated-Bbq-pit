@@ -80,3 +80,5 @@ the effectiveness of the motorised mechanism.
 - **Programme:** Diploma in Mechanical Engineering
 - **Year:** 2022
 - **Exhibition:** Final Year Project Exhibition 2022
+## Project Report
+📄 [Click here to view the full project report](Rotating BBQ Pit Report.pdf)
