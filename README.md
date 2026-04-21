@@ -81,4 +81,4 @@ the effectiveness of the motorised mechanism.
 - **Year:** 2022
 - **Exhibition:** Final Year Project Exhibition 2022
 ## Project Report
-📄 [Click here to view the full project report](Rotating BBQ Pit Report.pdf)
+📄 [Click here to view the full project report](Rotating_BBQ_Pit_Report.pdf)
